@@ -522,29 +522,8 @@ cd mobile
 flutter test
 ```
 
----
 
-## 📸 Captures d'écran
 
-### Interface Web
-
-#### Page de connexion
-![Login](./docs/screenshots/login.png)
-
-#### Dashboard Utilisateur
-![User Dashboard](./docs/screenshots/user-dashboard.png)
-
-#### Dashboard Agent
-![Agent Dashboard](./docs/screenshots/agent-dashboard.png)
-
-### Application Mobile
-
-#### Vue Mobile
-![Mobile](./docs/screenshots/mobile-app.png)
-
-> 📷 *Captures d'écran à ajouter après déploiement*
-
----
 
 ## 📊 Diagrammes
 
@@ -620,30 +599,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-## 👨‍💻 Auteur
-
-**Votre Nom**
-
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
-
----
-
-## 🙏 Remerciements
-
-- [Express.js](https://expressjs.com/) pour le framework web
-- [React](https://react.dev/) pour l'interface utilisateur
-- [Flutter](https://flutter.dev/) pour l'application mobile
-- [MongoDB](https://www.mongodb.com/) pour la base de données
-- [JWT](https://jwt.io/) pour l'authentification
-
----
-
-<div align="center">
-
-**⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ! ⭐**
-
-Made with ❤️ by [Votre Nom]
-
-</div>
