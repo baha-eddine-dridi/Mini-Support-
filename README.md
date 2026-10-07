@@ -490,39 +490,6 @@ mobile/
 - [ ] **SLA tracking** (délais de réponse)
 - [ ] **Satisfaction client** (rating après résolution)
 
----
-
-## 🧪 Tests et Vérification
-
-### Build de production
-
-```powershell
-# Backend
-cd backend
-npm run build
-
-# Frontend
-cd frontend
-npm run build
-```
-
-### Tests (à implémenter)
-
-```powershell
-# Backend - Tests unitaires et d'intégration
-cd backend
-npm test
-
-# Frontend - Tests composants
-cd frontend
-npm test
-
-# Mobile - Tests Flutter
-cd mobile
-flutter test
-```
-
-
 
 
 ## 📊 Diagrammes
@@ -572,30 +539,5 @@ USER                    AGENT                   SYSTÈME
   │◄── Status: CLOSED ────────────────────────────┤
 ```
 
----
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Pour contribuer :
-
-1. **Fork** le projet
-2. Créez une **branche** pour votre feature (`git checkout -b feature/AmazingFeature`)
-3. **Committez** vos changements (`git commit -m 'Add: Amazing feature'`)
-4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une **Pull Request**
-
-### Standards de code
-
-- ✅ **ESLint** configuré pour TypeScript
-- ✅ **Prettier** pour le formatage
-- ✅ Commits suivant [Conventional Commits](https://www.conventionalcommits.org/)
-- ✅ Tests pour les nouvelles fonctionnalités
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
 
